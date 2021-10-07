@@ -1,5 +1,5 @@
 # Travelling-Salesman-Problem
-Implemented a genetic algorithm that experimentally obtains a near-optimal solution to the classic Travelling Salesman Problem.
+### Implemented a genetic algorithm that experimentally obtains a near-optimal solution to the classic Travelling Salesman Problem.
 
 In this classic optimization problem, the objective function is to minimize the distance travelling between nodes, with the decision variable being the order of cities. The constraint includes: 1) each city have to be visited exactly once, and 2) the salesman have to return to the first city.
 
