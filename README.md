@@ -5,7 +5,7 @@ In this classic optimization problem, the objective function is to minimize the 
 
 Our case in context is the United States. 
 
-![Alt text](C:\Users\Christopher Fok\Desktop\ tsp_genetic.png	?raw=true "United States in a connected graph")
+![alt text](https://github.com/christopherfkk/Travelling-Salesman-Problem/blob/main/image.jpg?raw=true)
 
 We define the chromosomes as lists of integers that represent the cities. Through survival, mutation, and crossover, stochasticity is introduced to expand the search space to more likely reach a global optimum. The fitness is graphed at every generation (i.e. iteration) and the final path is obtained after fixed number of generations (i.e. 100 iterations). 
 
